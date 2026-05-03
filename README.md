@@ -1,4 +1,4 @@
-# 💫 About Me:
+💫 About Me:
 ## 👨‍💻 Sayak Bose<br><br>Passionate developer focused on building interactive and user-friendly web applications.<br><br>### 🚀 Skills<br>- Frontend: HTML, CSS, JavaScript<br>- Tools: Git, GitHub<br>- SQL , Python ,C <br>### 📌 Projects<br>- 🌐 Personal Website<br>-  💻 personal AI assistant <br><br>### 🌱 Currently Learning<br>- Advanced JavaScript<br>- Backend Development<br><br>### 📫 Contact<br>- Email: your-sayakbose26@example.com
 
 
