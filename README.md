@@ -100,12 +100,6 @@ I enjoy working with data, experimenting with machine learning algorithms, and t
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayakbose26-cpu&theme=tokyonight&no-frame=true&margin-w=4"/>
-</p>
-
 ---
 
 <p align="center">
