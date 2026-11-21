@@ -59,10 +59,6 @@ I enjoy working with data, experimenting with machine learning algorithms, and t
 - Integrated Python, TensorFlow/Keras, MySQL, and Flask.
 - Building an AI-powered disease information and PDF report generation feature.
 
-### 🤖 NOVA – Personal AI Assistant
-- Developing a personal AI assistant using Python..
-- Working on multi-agent architecture and API integrations.
-
 ### 📊 Machine Learning Projects
 - Exploring regression and classification algorithms.
 - Working with Linear Regression, Logistic Regression, KNN, SVM, Lasso, Ridge, XGBoost, and LightGBM.
